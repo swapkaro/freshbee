@@ -1,0 +1,22 @@
+{
+  "gameplay_sha256": "260aa8cc6d9baa4e4e843a98a307d90c5f42b75e42b6a4373f4ddc18aefcec9b",
+  "athlete": {
+    "file": "athlete.glb",
+    "triangles": 20878,
+    "skins": 1,
+    "animation": "Run_02",
+    "base_models": 1,
+    "team_variants": 2
+  },
+  "environment": {
+    "base": "turf-base.jpg",
+    "normal": "turf-normal.jpg",
+    "roughness": "turf-rough.jpg",
+    "panorama": "skyline.jpg",
+    "seam_ratio": 1.04
+  },
+  "limitations": [
+    "One shared generated athlete base with two uniform variants, explicitly chosen by the user after the second conversion failed.",
+    "Distant environment is a photographic panorama rather than individually modeled buildings and trees."
+  ]
+}
