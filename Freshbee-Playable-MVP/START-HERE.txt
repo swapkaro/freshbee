@@ -1,0 +1,25 @@
+FRESHBEE — PLAYABLE MVP
+
+Unzip this archive, then double-click Freshbee.html to open it in Chrome, Edge or Safari on desktop. No install or local server is needed. Enable hardware acceleration for 3D.
+
+Click TAKE THE FIELD to play against AI, or Practice first to learn the controls.
+
+WASD/arrows: run or aim while carrying
+E: quick pass
+Q: next receiver
+Space: hold/release throw
+Shift: sprint
+R: switch athlete
+H: huck
+F: fake
+X: dive
+C: camera
+Esc: pause and help
+
+Players cannot run with the disc. Catch in the attacking end zone to score. First to five wins.
+
+This portable edition saves locally in your browser when local storage is available. It is not the online server-saved edition.
+
+Known limits: one detailed athlete base shared across two uniform variants; approximate aerodynamics; distant skyline is a photographic backdrop; no audio or online matchmaking.
+
+All 23 game and room checks passed. Headless skeleton checks passed; full visual and physical-phone validation remains outstanding.
